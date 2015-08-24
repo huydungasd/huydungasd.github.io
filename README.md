@@ -1,4 +1,3 @@
-# huydungasd.github.io
 Lies of Astaroth
 =======
 
